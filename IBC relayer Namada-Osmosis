@@ -1,0 +1,5 @@
+# Create IBC channel between Namada and Osmosis
+
+## Install Namada from source 
+1. set dependencies 
+``` sudo apt-get install -y make git-core libssl-dev pkg-config libclang-12-dev build-essential protobuf-compiler libudev-dev ```
